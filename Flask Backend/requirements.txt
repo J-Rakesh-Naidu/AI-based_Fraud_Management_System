@@ -1,6 +1,6 @@
 Flask==2.2.5
 ultralytics==8.0.20
-opencv-python-headless==4.8.0.76
+opencv-python-headless==4.8.1.78
 pandas==2.0.3
 numpy==1.25.1
 fuzzywuzzy==0.18.0
