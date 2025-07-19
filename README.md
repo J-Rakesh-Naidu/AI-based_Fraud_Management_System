@@ -57,7 +57,6 @@ Ensure you have Python 3.x and pip installed on your system.
     cd AI-based_Fraud_Management_System
     ```
 3.  **Install the required packages:**
-    (You may need to create a `requirements.txt` file first)
     ```sh
     pip install -r requirements.txt
     ```
