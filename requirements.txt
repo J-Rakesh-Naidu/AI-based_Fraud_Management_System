@@ -1,0 +1,25 @@
+#Core Web Framework
+Flask==2.2.2
+
+#Machine Learning & Deep Learning
+tensorflow==2.10.0
+scikit-learn==1.1.2
+pandas==1.5.1
+numpy==1.23.4
+
+#Computer Vision & Image Processing
+ultralytics==8.2.2 # For YOLO models
+opencv-python-headless==4.6.0.66
+Pillow==9.3.0
+
+#OCR Engine
+pytesseract==0.3.10
+
+#For Jupyter Notebooks (if running/developing in that environment)
+jupyterlab==3.5.0
+matplotlib==3.6.2
+seaborn==0.12.1
+
+#Other utilities
+gunicorn==20.1.0 # For production deployment
+python-dotenv==0.21.0 # For managing environment variables
