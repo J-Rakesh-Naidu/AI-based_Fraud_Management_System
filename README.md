@@ -50,7 +50,7 @@ Ensure you have Python 3.x and pip installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/J-Rakesh-Naidu/AI-based_Fraud_Management_System.git](https://github.com/J-Rakesh-Naidu/AI-based_Fraud_Management_System.git)
+    git clone https://github.com/J-Rakesh-Naidu/AI-based_Fraud_Management_System.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
@@ -71,4 +71,3 @@ Ensure you have Python 3.x and pip installed on your system.
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
 ---
-*This README was generated with assistance from an AI.*
